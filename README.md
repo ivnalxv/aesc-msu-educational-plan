@@ -1,0 +1,1 @@
+# aesc-msu-educational-plan
