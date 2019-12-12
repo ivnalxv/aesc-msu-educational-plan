@@ -18,7 +18,7 @@
 #### Весенняя сессия  
 ##### Довбыш С.А.:      
 [Алгебра](https://github.com/bas-kirill/aesc-msu-educational-plan/blob/master/%D0%91%D0%B8%D0%BB%D0%B5%D1%82%D1%8B/10%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81.%20%D0%91%D0%B8%D0%BB%D0%B5%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B5.%202%20%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5.pdf)    
-###### Евдокименко А.П.:      
+##### Евдокименко А.П.:      
 [Геометрия](https://github.com/bas-kirill/aesc-msu-educational-plan/blob/master/%D0%91%D0%B8%D0%BB%D0%B5%D1%82%D1%8B/10%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81.%20%D0%91%D0%B8%D0%BB%D0%B5%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B8.%202%20%D0%BF%D0%BE%D0%BB%D1%83%D0%B3%D0%BE%D0%B4%D0%B8%D0%B5.pdf)    
 
 #### Лекции Бобровниковой:   
